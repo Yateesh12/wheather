@@ -1,12 +1,3 @@
-> # wheather
->
-> this project is about weather showing app using html,css and java script
-
-I understand that your project is a weather application built using HTML, CSS, and JavaScript. To enhance the clarity and professionalism of your README, here's a more detailed and structured version:
-
----
-
-```markdown
 # 🌦️ Weather Forecasting App
 
 A simple and responsive weather application that displays current weather information for any city using HTML, CSS, and JavaScript.
